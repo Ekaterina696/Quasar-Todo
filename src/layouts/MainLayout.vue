@@ -5,7 +5,7 @@
         <q-btn flat dense round icon="menu" aria-label="Menu" @click="toggleLeftDrawer" />
       </q-toolbar>
       <div class="q-px-lg q-pt-xl q-md-md">
-        <div class="text-h4">Hello world</div>
+        <div class="text-h4">Todo list</div>
         <div class="text-subtitle">{{ todaysDate }}</div>
       </div>
       <q-img class="header-image absolute-top" src="../assets\горы.jpg" />
